@@ -79,7 +79,7 @@ communication: The adaptive dimension of a web-based learning environment. Compu
 7 
 Honey, P., & Mumford, A. (1992). The manual of learning styles.  
 
-8  
+8
 Jeremic, Z., & Devedzic, V. (2004). Design patters ITS: Student model implementation. In IEEE International
 conference on advanced learning technologies.  
 
