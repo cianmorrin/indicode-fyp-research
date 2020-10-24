@@ -1,5 +1,8 @@
 # Evaluating Bayesian networks’ precision for detecting students’ learning styles 
 
+## Link 
+https://www.sciencedirect.com/science/article/pii/S0360131505001788
+
 ## Keywords : 
 Bayesian networks, Felder & Silverman, quantitative & qualitative information, inductive or deductive organization of information,
 conditional probability tables  
@@ -10,7 +13,7 @@ conditional probability tables
 Learning might be improved when learning and teaching styles match *1*. And all lecturer’s have their own style and it’s the case the student has to adapt to them.  
 How it is one of the most desired characteristics of web-based systems to be adaptive and personalised *2*  
 States that web based questionnaires can become boring and you wont get true data.  
-The used a BN, each node represents different student behaviour. The information gathered is from the student log files.  
+They used a BN, each node represents different student behaviour. The information gathered is from the student log files.  
 
 #### Related work
 Problems with student modelling *3*  
