@@ -6,7 +6,7 @@ I then discuss each item and pull keywords and ideas that interest me and I feel
 # Update
 
 ## In Progress
-Researching Learning theory models and which one is best suited for the application.
+Researching Learning theory models and which one is best suited for the application.  
 AI technique to be used in order to classify learners into certain profiles.  
 
 ## ToDo
