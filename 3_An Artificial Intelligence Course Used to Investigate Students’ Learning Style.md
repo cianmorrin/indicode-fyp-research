@@ -1,5 +1,8 @@
 # An Artificial Intelligence Course Used to Investigate Students’ Learning Style
 
+## Link 
+https://link.springer.com/chapter/10.1007%2F978-3-540-85033-5_13
+
 ## Keywords : 
 unified learning style model, learner tracking functionality  
 
