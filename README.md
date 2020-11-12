@@ -6,7 +6,7 @@ I then discuss each item and pull keywords and ideas that interest me and I feel
 # Update
 
 ## In Progress
-Researching pedagogical methodds for e-Learning applications
+Researching pedagogical approaches for e-Learning applications
 
 ## ToDo
 Researching Learning theory models and which one is best suited for the application.  
