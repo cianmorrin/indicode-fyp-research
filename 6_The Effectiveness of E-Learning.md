@@ -22,7 +22,7 @@ Discusses where e-Learning and traditional learning to should be measure by the 
 
 Gives a graph into the level of research done in the effectiveness of e-Learning, overall it increases year on year since the 60s.
 
-### How is the effectiveness of e-Learning defined?
+#### How is the effectiveness of e-Learning defined?
 
 Learning outcome is the definition by which the effectiveness of e-Learning is defined the most. This means when participants acquire new understandings as a result of the e-Learning initiative.
 Others include transfer (application to practice), attitude, satisfaction, skills acquired.
